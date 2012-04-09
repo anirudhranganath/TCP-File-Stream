@@ -1,0 +1,13 @@
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\bin\Release\Server.exe.config
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Release\Sender.Form1.resources
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Release\Sender.Properties.Resources.resources
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\bin\Release\Server.exe
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\bin\Release\Server.pdb
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Release\Server.exe
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Release\Server.pdb
+D:\sync\Professional\my code\TCP FileStream for Ananthanarayanan Sir\Sender\Server\bin\Release\Server.exe.config
+D:\sync\Professional\my code\TCP FileStream for Ananthanarayanan Sir\Sender\Server\obj\x86\Release\Server.exe
+D:\sync\Professional\my code\TCP FileStream for Ananthanarayanan Sir\Sender\Server\obj\x86\Release\Server.pdb

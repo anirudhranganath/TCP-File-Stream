@@ -1,0 +1,11 @@
+These 2 Solutions are used to send a file over tcp.
+Sender/Server sends file. IP and file to be sent must be selected. Basic exception handling is done. I intended to name 
+
+Receiver receives file and stores in desktop with a basic time stamp. sent file name and type will not be known and a generic file name will be kept. Reciver listens on port 11001.
+Mutiple senders may be handled and is untested.
+
+Large file sizes can be handled as the file is read and sent in chunks of 4kBytes and the entire file is not stored in memory.
+
+For Ananthanarayanan Sir @ Amrita University
+by Anirudh Ranganath
+Free to use, copy, modify commercialize

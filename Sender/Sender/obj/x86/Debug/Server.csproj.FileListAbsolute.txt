@@ -1,0 +1,9 @@
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\bin\Debug\Server.exe
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\bin\Debug\Server.pdb
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\anirudh\Documents\Visual Studio 2010\Projects\EmbeddedProj\Server\Server\obj\x86\Debug\Server.pdb
