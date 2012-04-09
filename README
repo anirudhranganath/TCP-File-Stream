@@ -8,6 +8,6 @@ Mutiple senders may be handled and is untested.
 
 Large file sizes can be handled as the file is read and sent in chunks of 4kBytes and the entire file is not stored in memory.
 
-For Ananthanarayanan Sir @ Amrita University
+
 by Anirudh Ranganath
 Free to use, copy, modify commercialize
